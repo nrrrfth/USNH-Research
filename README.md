@@ -98,7 +98,7 @@ Percentage of crashes in rural and urban areas
 
 from the sum of accident risk by day
 
-## **Conclution**
+## **Conclusion**
 1. Data shows that accidents occur most often during the day, so we need to make traffic signs that can be seen both during the day and at night. In addition, we also need to make road markings and speed bumps so that they can be applied to drivers to increase their vigilance in driving.
    
 2. We need to make new regulations on traffic procedures such as strengthening road rules, especially in the top 3 states with the most accidents, namely Texas, California, and Florida, regulating driving speed, forming policies related to the prohibition of distracted driving. Distracted driving can be caused by texting, eating and drinking, and even drunk driving.
